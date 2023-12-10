@@ -1,5 +1,3 @@
-import sys
-
 def main() -> None:
     data = open('DAY9\input.txt', 'r').read().split('\n')
 
