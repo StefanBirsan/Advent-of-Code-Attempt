@@ -12,3 +12,4 @@ Here are all my solutions for:
 7. Day7 - Part1 & Part2 - https://adventofcode.com/2023/day/7
 8. Day8 - Part1 & Part2 - https://adventofcode.com/2023/day/8
 9. Day8 - Part1 & Part2 - https://adventofcode.com/2023/day/9
+10. Day10 - Part1 & Part2 - https://adventofcode.com/2023/day/10
